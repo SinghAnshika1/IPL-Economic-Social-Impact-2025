@@ -40,13 +40,14 @@ Balanced analytics on IPL 2025's advertising impact — economic growth vs. heal
 | ![Dashboard](https://github.com/SinghAnshika1/IPL-Economic-Social-Impact-2025/blob/main/Slide2.PNG) | IPL Contract Revenue & Advertiser Risk |
 | ![Health Impact](https://github.com/SinghAnshika1/IPL-Economic-Social-Impact-2025/blob/main/Slide7.PNG) | Health Index Mapping & CELEB Exposure |
 
-## 📥 Report Download
-🔗 [https://github.com/SinghAnshika1/IPL-Economic-Social-Impact-2025/blob/main/ipl.pdf](#)
+## 📥 Report Download  
+🔗 [Download IPL Report PDF](https://github.com/SinghAnshika1/IPL-Economic-Social-Impact-2025/blob/main/ipl.pdf?raw=true)
 
-## 🙌 Acknowledgement
+## 🙌 Acknowledgement  
 Inspired by the Codebasics Resume Project Challenge.
 
 ---
 
-### 🔗 LinkedIn Post
-[https://www.linkedin.com/posts/anshika-singh-22a538252_rpc15-codebasics-ipl2025-activity-7337019091951525888-PcQP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5fBkIB-JjWO8xlw24lO3jwsyl7W6d_Pas](#) reflecting on the project, insights, and learning outcomes.
+### 🔗 LinkedIn Post  
+🔗 [View My LinkedIn Post](https://www.linkedin.com/posts/anshika-singh-22a538252_rpc15-codebasics-ipl2025-activity-7337019091951525888-PcQP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5fBkIB-JjWO8xlw24lO3jwsyl7W6d_Pas)
+
