@@ -41,7 +41,7 @@ Balanced analytics on IPL 2025's advertising impact — economic growth vs. heal
 | ![Health Impact](https://github.com/SinghAnshika1/IPL-Economic-Social-Impact-2025/blob/main/Slide7.PNG) | Health Index Mapping & CELEB Exposure |
 
 ## 📥 Report Download  
-🔗 [Download IPL Report PDF](https://github.com/SinghAnshika1/IPL-Economic-Social-Impact-2025/blob/main/ipl.pdf?raw=true)
+🔗 [Download IPL Report PDF](https://github.com/SinghAnshika1/IPL-Economic-Social-Impact-2025/blob/main/ipl.pdf)
 
 ## 🙌 Acknowledgement  
 Inspired by the Codebasics Resume Project Challenge.
